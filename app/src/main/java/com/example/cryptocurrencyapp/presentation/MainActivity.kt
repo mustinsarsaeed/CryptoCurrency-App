@@ -1,4 +1,4 @@
-package com.example.cryptocurrencyapp
+package com.example.cryptocurrencyapp.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -14,7 +14,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.tooling.preview.Preview
-import com.example.cryptocurrencyapp.ui.theme.CryptoCurrencyAppTheme
+import com.example.cryptocurrencyapp.presentation.ui.theme.CryptoCurrencyAppTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

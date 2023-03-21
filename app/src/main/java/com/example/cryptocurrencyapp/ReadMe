@@ -1,0 +1,10 @@
+CryptoCurrency App
+Clean Architecture...JetPackCompose....Flows....DI.....Retrofit
+Clean Architecture Consist of three Layers
+Data Domain and Presentation
+in Data Layer we will implement Apis or Database
+in Domain Layer we will implement Business Logic
+in Presentation Layer we will implement UI or composable
+two other packages are common and di
+in common package we will implement common files used in whole project
+in di package we will implement di
